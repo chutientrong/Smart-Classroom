@@ -1,0 +1,35 @@
+1. light id =1
+get trạng thái light
+http://uitwebapp.test/api/light/1
+trả về ON hoặc OFF
+2.
+post light có id =1
+http://uitwebapp.test/api/devices/update-light/1
+chỉ cần gọi api là sẽ tự động đổi trạng thái đèn
+3. fan id =2
+get trạng thái fan
+http://uitwebapp.test/api/fan/2
+trả về ON hoặc OFF
+4.
+post light có id =1
+http://uitwebapp.test/api/devices/update-fan/2
+chỉ cần gọi api là sẽ tự động đổi trạng thái quạt
+
+5.
+get điểm danh
+http://uitwebapp.test/api/get-attendance
+trả về
+attendacne_id - timestamp - year - class_id - section_idv - student_id - class_routine_id - status
+
+6.
+add điểm danh
+timestamp - year - class_id - section_idv - student_id - class_routine_id - status
+timestamp định dạng post tức data['timestamp'] = "Y-m-d"
+vd 2022-06-16
+
+7.
+get image student
+http://uitwebapp.test/api/student-image/code
+code la student_code
+VD: http://uitwebapp.test/api/student-image/16521234
+

@@ -1,0 +1,2 @@
+StudentName,Id,Email,Password,Phone,Address,ParentID,Gender
+NGUYEN VÃN X,12111,nvx@student.com,student,123123,a,3,Male

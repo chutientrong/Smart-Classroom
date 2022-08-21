@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a10f2cc-b6c9-4b37-a02a-7c7804606d14" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27JiTNnBduYwjMdfz8UNfd7vfA3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/language/english" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Program\laragon\www\uitwebapp\application\language\english" />
+      <recent name="F:\Program\laragon\www\uitwebapp\application\config" />
+      <recent name="F:\Program\laragon\www\uitwebapp\application\controllers" />
+      <recent name="F:\Program\laragon\www\uitwebapp\application\views\backend\teacher" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a10f2cc-b6c9-4b37-a02a-7c7804606d14" name="Changes" comment="" />
+      <created>1649044597235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649044597235</updated>
+      <workItem from="1649044599127" duration="1962000" />
+      <workItem from="1649145051188" duration="52000" />
+      <workItem from="1650254203155" duration="3843000" />
+      <workItem from="1650543534585" duration="819000" />
+      <workItem from="1650801697192" duration="5299000" />
+      <workItem from="1650817062193" duration="8005000" />
+      <workItem from="1650848994087" duration="4432000" />
+      <workItem from="1650870395100" duration="477000" />
+      <workItem from="1651314440891" duration="3300000" />
+      <workItem from="1651416449764" duration="4383000" />
+      <workItem from="1651906623300" duration="5351000" />
+      <workItem from="1652007483386" duration="6125000" />
+      <workItem from="1652079139883" duration="1048000" />
+      <workItem from="1652586530412" duration="593000" />
+      <workItem from="1652672956711" duration="2584000" />
+      <workItem from="1653239340863" duration="8546000" />
+      <workItem from="1653269050927" duration="13350000" />
+      <workItem from="1653790519616" duration="21927000" />
+      <workItem from="1653823644995" duration="9060000" />
+      <workItem from="1653877243169" duration="6540000" />
+      <workItem from="1653891457489" duration="303000" />
+      <workItem from="1653892660735" duration="2178000" />
+      <workItem from="1654398190858" duration="6272000" />
+      <workItem from="1654423803825" duration="8800000" />
+      <workItem from="1655052955512" duration="1259000" />
+      <workItem from="1655056368617" duration="16404000" />
+      <workItem from="1655103256903" duration="2603000" />
+      <workItem from="1655339305480" duration="10722000" />
+      <workItem from="1655404108122" duration="2914000" />
+      <workItem from="1655433085231" duration="2628000" />
+      <workItem from="1655445292741" duration="767000" />
+      <workItem from="1655605183421" duration="4695000" />
+      <workItem from="1655651930034" duration="2704000" />
+      <workItem from="1655702407990" duration="375000" />
+      <workItem from="1655707012936" duration="1578000" />
+      <workItem from="1655985543539" duration="102000" />
+      <workItem from="1656673589262" duration="8956000" />
+      <workItem from="1656983336410" duration="3668000" />
+      <workItem from="1657002554300" duration="4423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
